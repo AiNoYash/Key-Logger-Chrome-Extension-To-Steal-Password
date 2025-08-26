@@ -8,6 +8,7 @@ Description
 <br>
 This experimental Chrome extension tracks keystrokes for learning purposes and provides two shortcut keys for user interaction:
 <br>
+<br>
 []Features
 <br>
 ->Keystroke Tracking: The extension logs every keypress, including key combinations (e.g., pressing "Ctrl" is recorded as "Control").
@@ -24,6 +25,7 @@ This experimental Chrome extension tracks keystrokes for learning purposes and p
 1) Ctrl+B: Displays the currently logged keystrokes.
 <br>
 2) Ctrl+M: Clears all logged keystrokes and starts fresh.
+<br>
 <br>
 []Requirements
 <br>
