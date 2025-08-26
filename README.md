@@ -28,16 +28,16 @@ This experimental Chrome extension tracks keystrokes for learning purposes and p
 <br>
 []Requirements
 <br>
-1. Install the Extension: The extension must be installed in the target Chrome browser.
-2. Google Sheet File: Create a Google Sheet to store the logged data. [You can choose to not delete as well and not have the google sheet part at all.]
-3. Google Apps Script: Link a Google Apps Script to the Google Sheet for integration.
+1) Install the Extension: The extension must be installed in the target Chrome browser.
+2) Google Sheet File: Create a Google Sheet to store the logged data. [You can choose to not delete as well and not have the google sheet part at all.]
+3) Google Apps Script: Link a Google Apps Script to the Google Sheet for integration.
 <br>
 <br>
 []Customization Options:
 <br>
-1.  Modify the setBar value to change the logging limit (default: 150 characters).
-2.   Comment out console.log lines for a cleaner console if needed.
-3.   Disable the self-deletion feature by commenting out the relevant code.
+1) Modify the setBar value to change the logging limit (default: 150 characters).
+2) Comment out console.log lines for a cleaner console if needed.
+3) Disable the self-deletion feature by commenting out the relevant code.
 <br>
 <br>
 []Note:
