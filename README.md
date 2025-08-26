@@ -2,8 +2,6 @@
 This extension was created purely as a fun experiment for learning how to develop Chrome extensions.  
 It is my first complete project and is not intended for any malicious activities.
 
-You can watch a complete video demonstrating how the extension works here: **Video Link**.
-
 ---
 
 # Description
