@@ -23,7 +23,6 @@ This experimental Chrome extension tracks keystrokes for learning purposes and p
 []Shortcut Keys
 <br>
 1) Ctrl+B: Displays the currently logged keystrokes.
-<br>
 2) Ctrl+M: Clears all logged keystrokes and starts fresh.
 <br>
 <br>
